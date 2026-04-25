@@ -1,0 +1,197 @@
+2ETATS-UNIS                         WASHINGTON                 9629047      291289535
+3CHINE                              SHANGHAI                   9596960     1273111290
+2RUSSIE                             MOSCOU                    17075400      143954573
+4AUSTRALIE                          CANBERRA                   7686850       19834248
+3JAPON                              TOKYO                       377835       12761000
+5ALLEMAGNE                          BERLIN                      357027        8253700
+5FRANCE                             MARSEILLE                   543964       61387038
+5ITALIE                             ROME                        301230       57715620
+3COREE DU SUD                       SEOUL                        99274       48324000
+5ROYAUME-UNI                        LONDRES                     244101       58789194
+2CUBA                               LA HAVANE                   100860       11184023
+5UKRAINE                            KIEV                        603700       48396470
+5HONGRIE                            BUDAPEST                     93030       10106017
+5ROUMANIE                           BUCAREST                    238390       22272000
+5GRECE                              ATHENES                     131940       10623835
+5NORVEGE                            OSLO                        324220        4525116
+5PAYS-BAS                           AMSTERDAM                    41526       16135992
+2BRESIL                             BRASILIA                   8511965      174468575
+5SUEDE                              STOCKHOLM                   449964        8875053
+5ESPAGNE                            MADRID                      504782       40037995
+2CANADA                             OTTAWA                     9984670       31499560
+5TURQUIE                            ANKARA                      780580       67308928
+5POLOGNE                            VARSOVIE                    312685       38633912
+4NOUVELLE-ZELANDE                   WELLINGTON                  268680        3864129
+3THAILANDE                          BANGKOK                     514000       62354402
+5BELARUS                            MINSK                       207600       10350194
+5AUTRICHE                           VIENNE                       83858        8150835
+1ETHIOPIE                           ADDIS-ABEBA                1127127       67673031
+3IRAN                               TEHERAN                    1648000       76000000
+5SLOVAQUIE                          BRATISLAVA                   48845        5414937
+3GEORGIE                            TBILISSI                     69700        4934413
+5BULGARIE                           SOFIA                       110910        7707495
+2JAMAIQUE                           KINGSTON                     10991        1695867
+3OUZBEKISTAN                        TACHKENT                    447400       25563441
+5DANEMARK                           COPENHAGUE                   43094        5413392
+2ARGENTINE                          BUENOS AIRES               2766890       37812817
+2CHILI                              SANTIAGO                    756950       15328467
+3KAZAKHSTAN                         ASTANA                     2717300       16741519
+1KENYA                              NEIROBI                     582650       31138735
+5REPUBLIQUE TCHEQUE                 PRAGUE                       78866       10264212
+1AFRIQUE DU SUD                     PRETORIA                   1219912       42718530
+5CROATIE                            ZAGREB                       56542        4390751
+5LITUANIE                           VILNIUS                      65200        3610535
+1EGYPTE                             LE CAIRE                    995450       74718797
+5SUISSE                             BERNE                        41285        7261200
+3INDONESIE                          DJAKARTA                   1919440      228437870
+1ZIMBABWE                           HARARE                      350580       12576742
+3AZERBAIDJAN                        BAKU                         86100        7830764
+5BELGIQUE                           BRUXELLES                    32545       10309725
+2BAHAMAS                            NASSAU                       13940         300529
+5ISRAEL                             JERUSALEM                    20770        6116533
+1CAMEROUN                           YAOUNDE                     475440       15746179
+3EMIRATS ARABES UNIS                ABOU DHABI                   82880        2407460
+2REPUBLIQUE DOMINICAINE             SAINT-DOMINGUE               48730        8442533
+3COREE DU NORD                      PYONGYANG                   120540       21968228
+5LETTONIE                           RIGA                         64589        2385231
+2MEXIQUE                            MEXICO                     1972550      103400165
+5PORTUGAL                           LISBONNE                     92391       10066253
+5FINLANDE                           HELSINKI                    337030        5211311
+5SERBIE ET MONTENEGRO               BELGRADE                    102173       10660000
+5SLOVENIE                           LJUBLJANA                    20273        1930132
+5ESTONIE                            TALINN                       45226        1401945
+3HONG-KONG                          VICTORIA                      1067        6000000
+3INDE                               NEW DELHI                  3287590     1029991145
+2PARAGUAY                           ASUNCIO                     406750        5734139
+1NIGERIA                            ABUJA                       923768      133881703
+2VENEZUALA                          CARACAS                     912050       23542649
+2COLOMBIE                           BOGOTA                     1138910       41088227
+1ERYTHREE                           ASMARA                      121320        4465651
+3MONGOLIE                           OULAN-BATOR                1565000        2654999
+3SYRIE                              DAMAS                       185180       17585540
+2TRINITE-ET-TOBAGO                  PORT D'ESPAGNE                5128        1104209
+3AFGHANISTAN                        KABOUL                      652225       29547078
+5ALBANIE                            TIRANA                       28748        3510484
+1ALGERIE                            ALGER                      2381740       31763053
+5ANDORRE                            ANDORRA LA VELLA               468          67627
+1ANGOLA                             LUANDA                     1246700       10766471
+2ANTIGUA-ET-BARBUDA                 SAINT-JOHNS                    442          67448
+2ANTILLES NEERLANDAISES             WILLEMSTAD                     800         210000
+3ARABIE SAOUDITE                    RIYAD                      1960582       23513330
+3ARMENIE                            EREVAN                       29800        3326448
+2ARUBA                              ORANJESTAD                     193          69000
+3BAHREIN                            MANAMA                         707         645361
+3BANGLADESH                         DACCA                       144000      133376684
+2BARBADE                            BRIDGETOWN                     430         276607
+2BELIZE                             BELMOPAN                     22966         266440
+1BENIN                              COTONOU                     112620        7041490
+2BERMUDES                           HAMILTON                        53         113208
+3BHOUTAN                            THIMPHOU                     47000        2094176
+2BOLIVIE                            LA PAZ                     1098580        8724156
+5BOSNIE-HERZEGOVINE                 SARAJEVO                     51129        3922205
+1BOTSWANA                           GABORONE                    581730        1812547
+3BRUNEI                             BANDAR SERI BEGAWAN           5770         343653
+1BURKINA-FASO                       OUAGADOUGOU                 274200       12272289
+1BURUNDI                            BUJUMBURA                    27830        6223897
+3CAMBODGE                           PHNOM PENH                  181040       13124764
+1CAP VERT                           PRAIA                         4033         405163
+5CHYPRE                             NICOSIE                       9250         771657
+3COMORES                            MORONI                        2170         596202
+1CONGO                              BRAZZAVILLE                 341821        2894336
+2COSTA RICA                         SAN JOSE                     51100        3835000
+1COTE D'IVOIRE                      YAMOUSSOUKRO                322460       16962491
+1DJIBOUTI                           DJIBOUTI                     22000         460700
+4DOMINIQUE                          ROSEAU                         754          75851
+2EL SALVADOR                        SAN SALVADOR                 21041        6122075
+2EQUATEUR                           QUITO                       283560       13183978
+4FIDJI                              SUVA                         18270         844330
+1GABON                              LIBREVILLE                  267667        1155749
+1GAMBIE                             BANJUL                       11300        1411205
+1GHANA                              ACCRA                       238540       19894014
+2GRENADE                            SAINT-GEORGES                  344          89260
+2GUAM                               AGANA                          541         160796
+2GUATEMALA                          GUATEMALA CIUDAD            108890       12974361
+1GUINEE                             CONAKRY                     245857        7613870
+1GUINEE EQUATORIALE                 MALABO                       28051         486060
+1GUINEE-BISSAU                      BISSAU                       36120        1345479
+2GUYANA                             GEORGETOWN                  214970         697181
+2HAITI                              PORT-AU-PRINCE               27750        7527817
+2HONDURAS                           TEGUCIGALPA                 112090        6249598
+2ILES CAIMANS                       GEORGE TOWN                    262          39000
+4ILES SALOMON                       HONIARA                      28450         480442
+2ILES VIERGES BRITANNIQUES          ROAD TOWN                      153          19000
+3IRAK                               BAGDAD                      437072       23331985
+5IRLANDE                            DUBLIN                       70273        3917336
+5ISLANDE                            REYKJAVIC                   103125         288201
+3JORDANIE                           AMMAN                        92300        5153378
+3KIRGHIZISTAN                       BICHLEK                     198500        4753003
+4KIRIBATI                           TARAWA SUD                     811          98549
+3KOWEIT                             KOWEIT                       17820        2041961
+3LAOS                               VIENTIANE                   236800        5635967
+1LESOTHO                            MASERU                       30355        1861959
+3LIBAN                              BEYROUTH                     10452        3727703
+1LIBERIA                            MONROVIA                    111370        3317176
+1LIBYE                              TRIPOLI                    1759540        5499074
+5LIECHTENSTEIN                      VADUZ                          160          32528
+5LUXEMBOURG                         LUXEMBOURG                    2586         442972
+5MACEDOINE                          SKOPJE                       25713        2100000
+1MADAGASCAR                         ANTANARIVO                  587040       16979744
+3MALAISIE                           KUALA LAMPUR                329750       21793293
+1MALAWI                             LILONGWE                    118484       10000000
+3MALDIVES                           MALE                           298         329684
+1MALI                               BAMAKO                     1241000       11008518
+5MALTE                              LA VALETTE                     316         394583
+1MAURICE                            PORT LOUIS                    1860        1189825
+1MAURITANIE                         NOUAKCHOTT                 1026000        2000000
+4MICRONESIE                         PALIKIR                        702         108143
+5MOLDAVIE                           CHISINAU                     33843        4431570
+5MONACO                             MONACO                         195          31842
+1MOZAMBIQUE                         MAPUTO                      801590       19104696
+3MYANMAR                            RANGOUN                     678500       42510537
+1NAMIBIE                            WINDHOEK                    825418        1820918
+4NAURU                              NAURUAN                         21          12329
+3NEPAL                              KATMANDOU                   140800       25284463
+2NICARAGUA                          MANAGUA                     129494        5128517
+1NIGER                              NIAMEY                     1267000       11058590
+3OMAN                               MASCATE                     212460        2622198
+1OUGANDA                            KAMPALA                     236040       24699073
+3PAKISTAN                           ISLAMABAD                   803940      147663429
+4PALAOS                             KOROR                          458          19092
+2PANAMA                             PANAMA                       78200        2845647
+4PAPOUASIE-NOUVELLE-GUINEE          PORT MORESBY                462840        4927000
+2PEROU                              LIMA                       1285220       27949639
+3PHILIPPINES                        MANILLE                     300000       86241697
+2PORTO RICO                         SAN JUAN                      8959        3000000
+3QATAR                              DOHA                         11437         769152
+1REPUBLIQUE CENTRAFRICAINE          BANGUI                      622984        3742482
+1REPUBLIQUE DEMOCRATIQUE DU CONGO   KINSHASA                   2345410       55225478
+1RWANDA                             KIGALI                       26338        7312756
+2SAINT KITTSETNEVIS                 BASSETERRE                     261          38756
+5SAINT MARIN                        SAINT MARIN                     61          27336
+2SAINT-VINCENT-ET-LES GRENADINES    KINGSTOWN                      389         116812
+2SAINTE LUCIE                       CASTRIES                       620         160145
+4SAMOA                              ASPIA                         2944         178173
+1SAO TOME                           SAO TOME                      1001         165034
+1SENEGAL                            DAKAR                       196190       10284929
+1SEYCHELLES                         VICTORIA                       455          80098
+1SIERRA LEONE                       FREETOWN                     71740        5426618
+3SINGAPOUR                          SINGAPORE                      692        4608595
+1SOMALIE                            MOQDISHO                    637657        8025190
+1SOUDAN                             KHARTOUM                   2505810       37090298
+3SRI LANKA                          COLOMBO                      65610       19607519
+2SURINAME                           PARAMARIBO                  163270         433998
+1SWAZILAND                          MBABANE                      17363        1104343
+3TADJIKISTAN                        DOUCHANBE                   143000        6719567
+3TAIWAN                             TAIPEI                       36006       22000000
+1TANZANIE                           DODOMA                      945090       35922454
+1TCHAD                              NDJAMENA                   1284000        9253493
+3TIMOR LESTE                        DILI                         15007         952618
+1TOGO                               LOME                         56785        5018502
+4TONGA                              NUKUALOFA                      748         108141
+1TUNISIE                            TUNIS                       164150        9593402
+3TURKMENISTAN                       ACHGABAT                    488100        4603244
+2URUGUAY                            MONTEVIDEO                  176220        3360105
+4VANUATU                            PORT-VILA                    12200         199414
+3VIETNAM                            HANOI                       329560       81098416
+3YEMEN                              SANAA                       527970       19349881
+1ZAMBIE                             LUSAKA                      752614        9582418

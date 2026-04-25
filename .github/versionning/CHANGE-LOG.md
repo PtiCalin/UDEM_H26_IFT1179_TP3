@@ -8,50 +8,56 @@ The format is based on Keep a Changelog and this project follows semantic-style 
 
 ### Added
 
-- 
+- Initial TP3 repository setup
+- Nations.txt and coasters.txt data files in files/assets/
+- Assignment instructions in files/instructions/
+- CLAUDE.md project context for AI assistance
+- VS Code workspace configured for C# development
 
 ### Changed
 
-- 
+- README.md updated for TP3 assignment
+- AUTHORS.md updated with student info
 
 ### Deprecated
 
-- 
+-
 
 ### Removed
 
-- 
+-
 
 ### Fixed
 
-- 
+-
 
 ### Security
 
-- 
+-
 
-## [0.1.0] - YYYY-MM-DD
+## [0.1.0] - 2026-04-25
 
 ### Added
 
-- Initial project scaffolding
+- Initial TP3 project scaffolding
 - Repository governance files (README, templates, branch/security rules)
+- Data files: Nations.txt, coasters.txt
 
 ### Changed
 
-- 
+-
 
 ### Deprecated
 
-- 
+-
 
 ### Removed
 
-- 
+-
 
 ### Fixed
 
-- 
+-
 
 ### Security
 

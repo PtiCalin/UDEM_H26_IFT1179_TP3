@@ -1,0 +1,35 @@
+Medusa;Great Adventure;Jackson;142;61
+Kinda Ka;Great Adventure;Jackson;456;128
+Superman ultimate flight;Great Adventure;Jackson;115;60
+Batman the ride;Magic mountain;Los Ageles;109;50
+Batman the ride;Great America;Chicago;109;50
+Batman the ride;Six Flags over Georgia;Atlanta;109;50
+Batman the ride;Six Flags New Orleans;New Orleans;109;50
+Batman the ride;Six Flags over Texas;Arlington;109;50
+Batman the ride;Great Adventure;Jackson;109;50
+Deja vu;Magic mountain;Los Ageles;178;65
+Deja vu;Great America;Chicago;178;65
+Superman ultimate flight;Great America;Chicago;115;60
+Superman ultimate flight;Six Flags over Georgia;Atlanta;115;60
+Boomerang;La Ronde;Montreal;125;50
+Boomerang;Darien Lake;Buffalo;125;50
+Boomerang;The Great Escape;Lake Georges;125;50
+Boomerang;Elitch Gardens;Denver;125;50
+Le galopan;La Ronde;Montreal;3;10
+Condor;The Great Escape;Lake Georges;112;30
+Condor;Great America;Chicago;112;30
+Condor;La Ronde;Montreal;112;30
+Superman Ride of Steel;Darien Lake;Buffalo;208;73
+Superman Ride of Steel;Six Flags New England;Springfield;208;73
+Superman Ride of Steel;Six Flags America;Washington;208;73
+SpongeBob SquarePants 3-D;Great Adventure;Jackson;4;0
+SpongeBob SquarePants 3-D;La Ronde;Montreal;4;0
+SpongeBob SquarePants 3-D;Six Flags New Orleans;New Orleans;4;0
+Mind Eraser;Darien Lake;Buffalo;115;64
+Mind Eraser;Six Flags New England;Springfield;115;64
+Mind Eraser;Six Flags America;Washington;115;64
+Mind Eraser;Elitch Gardens;Denver;115;64
+Superman Krypton Coaster;Fiesta Texas;San Antonio;168;70
+Le Monstre;La Ronde;Montreal;131;60
+Mantis;Cedar Point;Sandusky;145;60
+Raptor;Cedar Point;Sandusky;137;50

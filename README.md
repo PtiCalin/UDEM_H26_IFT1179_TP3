@@ -1,116 +1,93 @@
-# School Project Repository Template
+# UDEM_H26_IFT1179_TP3
 
-This repository provides a simple and structured base for academic work.
-It is designed to centralize documentation, resources, visual assets, and contribution tracking.
+**IFT 1179 — Programmation en C# | TP3 | Session Hiver 2026**
 
-## Project Overview
+Two C# console programs using arrays and collections.
 
-- Project title: [Project Title]
-- Course: [Course Name or Code]
-- Institution: [Institution Name]
-- Team: [Team Name or Individual]
-- Submission date: [YYYY-MM-DD]
+- **Owner:** PtiCalin (Charlie)
+- **Course:** IFT 1179 — Programmation en C#, Universite de Montreal
+- **Due:** Sunday, April 26, 2026
+- **Worth:** 40 points
 
-## Academic Objectives
+---
 
-- Define the problem statement or research question clearly.
-- Describe a reproducible methodology.
-- Present results supported by evidence.
-- Discuss limitations and future work.
+## Assignment Summary
+
+### Numero 1 — System.Array (20 pts)
+
+Read `Nations.txt` into an array of `Nation` objects (up to 250 countries).
+Perform sequential search, sort, binary search, and file output operations.
+
+### Numero 2 — List\<T\> (20 pts)
+
+Read `coasters.txt` into a `List<Coaster>`.
+Perform list mutations, sorting with custom comparator, searching, and filtering.
+
+Full details: [files/instructions/tp3_1179_h26.md](files/instructions/tp3_1179_h26.md)
+
+---
 
 ## Repository Structure
 
 ```text
-.
+UDEM_H26_IFT1179_TP3/
 ├── README.md
 ├── LICENSE
 ├── AUTHORS.md
 ├── ATTRIBUTIONS.md
 ├── CHANGE-LOG.md
-├── .github/
-│   ├── SECURITY.md
-│   ├── templates/
-│   ├── versionning/
-│   └── workflows/
-└── files/
-    ├── assets/
-    │   └── ASSETS.md
-    ├── instructions/
-    │   └── generic-school-project-outline.md
-    └── resources/
-        └── RESOURCES.md
+├── files/
+│   ├── assets/
+│   │   ├── Nations.txt        # Input: country data (~150 entries)
+│   │   └── coasters.txt       # Input: roller coaster data (35 entries)
+│   ├── instructions/
+│   │   └── tp3_1179_h26.md    # Assignment instructions
+│   └── resources/
+├── TP3_Num1/                   # C# solution — Nations (System.Array)
+└── TP3_Num2/                   # C# solution — Coasters (List<T>)
 ```
 
-## Quick Start
+---
 
-1. Clone the repository.
-2. Create a working branch from main.
-3. Add content in the appropriate location:
-    - files/resources for sources and references
-    - files/assets for diagrams, images, and presentation material
-    - ATTRIBUTIONS.md for external source traceability
-4. Update CHANGE-LOG.md for any significant change.
-5. Open a Pull Request.
+## Submission
 
-## Expected Deliverables
+Each solution is zipped and submitted separately via Studium.
 
-- Written report (Markdown or PDF)
-- Reproducible artifacts (code, scripts, data, captures)
-- Presentation material (slides, diagrams)
+- `TP3_Num1.zip` — Nations program
+- `TP3_Num2.zip` — Coasters program
 
-## Quality and Reproducibility
+## Key Constraints
 
-- Use clear and consistent file names.
-- Keep source information up to date in ATTRIBUTIONS.md.
-- Document authors and contributions in AUTHORS.md.
-- Verify that results can be reproduced using repository files.
+- No accented characters in variable names or string literals (professor requirement)
+- Each number in its own Visual Studio solution/project
+- Target: .NET Console Application (C#)
 
-## Key File Maintenance Guide
-
-- README.md: project overview, objectives, and usage
-- CHANGE-LOG.md: project evolution log
-- AUTHORS.md: contributors and roles
-- ATTRIBUTIONS.md: technical and academic references
-- files/assets/ASSETS.md: visual and media asset register
-- files/resources/RESOURCES.md: resource register
-
-## Evaluation Criteria (Example)
-
-- Technical rigor
-- Clarity of explanation
-- Reproducibility
-- Code and documentation quality
-
-## Contact
-
-For questions: [your.name@example.com]
+---
 
 ## Latest Changes
 
 <!-- LATEST-CHANGES:START -->
+
 ### Snapshot from Changelog
 
-_Last sync: 2026-04-19 17:49:28 UTC_
+_Last sync: 2026-04-25_
 
 ## [Unreleased]
 
 ### Added
 
+- Initial TP3 repository setup
+- Nations.txt and coasters.txt data files
+- Assignment instructions in files/instructions/
 
 ### Changed
 
-
 ### Deprecated
-
 
 ### Removed
 
-
 ### Fixed
-
 
 ### Security
 
-
 <!-- LATEST-CHANGES:END -->
-

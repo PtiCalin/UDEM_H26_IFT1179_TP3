@@ -1,11 +1,10 @@
 # Authors
 
-- [Full Name] - [Matricule] - [GitHubId]
+- Charlie (PtiCalin) - [@PtiCalin](https://github.com/PtiCalin)
 
 ## Contribution Notes
 
-
-
+Solo project. All code and documentation written by the author above.
 
 ---
 

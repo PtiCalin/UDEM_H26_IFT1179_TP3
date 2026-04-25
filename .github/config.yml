@@ -1,15 +1,18 @@
 repository:
-  name: temp_school-project
-  type: school-project-template
-  language: en
+  name: UDEM_H26_IFT1179_TP3
+  type: school-project
+  language: fr
   visibility: private
 
 project:
   context: academic
-  institution: "[Institution Name]"
-  course: "[Course Name / Code]"
+  institution: "Universite de Montreal"
+  course: "IFT 1179 - Programmation en C#"
+  session: "Hiver 2026"
+  assignment: "TP3 - Arrays and Collections"
+  due_date: "2026-04-26"
   owners:
-    - "[Owner Name]"
+    - "PtiCalin (Charlie)"
   default_branch: main
 
 issue_management:

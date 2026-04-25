@@ -1,0 +1,29 @@
+changelog:
+  categories:
+    - title: "Theory"
+      labels:
+        - theory
+    - title: "Examples"
+      labels:
+        - examples
+    - title: "Exercises"
+      labels:
+        - exercises
+    - title: "Reference"
+      labels:
+        - reference
+    - title: "Resources"
+      labels:
+        - resources
+    - title: "Tools"
+      labels:
+        - tools
+    - title: "Documentation"
+      labels:
+        - documentation
+    - title: "Maintenance"
+      labels:
+        - chore
+  exclude:
+    labels:
+      - skip-changelog
