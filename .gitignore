@@ -1,0 +1,36 @@
+# Gitignore file for the project
+
+## IDE files
+/.vscode/
+
+## Development files
+/.claude/
+
+## System files
+.DS_Store
+Thumbs.db
+
+## Environment files
+.env
+
+## Build files
+/dist/
+/build/
+
+## Node modules
+/node_modules/
+
+## Python virtual environment
+/__pycache__/
+/venv/
+/.venv/
+
+## Miscellaneous
+/logs/
+*.log
+/cache/
+/temp/
+*.tmp
+/backups/
+*.bak
+*.swp

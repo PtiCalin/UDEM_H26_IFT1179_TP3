@@ -1,0 +1,53 @@
+name: Auto Release Versioning
+
+on:
+  push:
+    tags:
+      - "v*"
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  promote-changelog:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Resolve version
+        id: version
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "release" ]; then
+            echo "value=${{ github.event.release.tag_name }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "value=${GITHUB_REF#refs/tags/}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Promote changelog
+        shell: pwsh
+        run: ./.github/scripts/Promote-Changelog.ps1 -Version "${{ steps.version.outputs.value }}"
+
+      - name: Update README latest changes
+        shell: pwsh
+        run: ./.github/scripts/Update-ReadmeChanges.ps1
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          if [ -n "$(git status --porcelain CHANGE-LOG.md README.md)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add CHANGE-LOG.md README.md
+            git commit -m "chore(auto): promote changelog for ${{ steps.version.outputs.value }} [skip ci]"
+            git push origin "HEAD:${{ github.event.repository.default_branch }}"
+          else
+            echo "No release documentation changes to commit"
+          fi

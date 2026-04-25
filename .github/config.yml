@@ -1,0 +1,127 @@
+repository:
+  name: temp_school-project
+  type: school-project-template
+  language: en
+  visibility: private
+
+project:
+  context: academic
+  institution: "[Institution Name]"
+  course: "[Course Name / Code]"
+  owners:
+    - "[Owner Name]"
+  default_branch: main
+
+issue_management:
+  blank_issues_enabled: true
+  contact_links:
+    - name: Security vulnerability report
+      url: mailto:security-contact@example.com
+      about: Please report security issues privately.
+  templates:
+    bug_report: .github/templates/ISSUE_TEMPLATE/bug_report.md
+    feature_request: .github/templates/ISSUE_TEMPLATE/feature_request.md
+    research_question: .github/templates/ISSUE_TEMPLATE/research_question.md
+    report_task: .github/templates/ISSUE_TEMPLATE/report_task.md
+
+pull_requests:
+  template: .github/templates/PULL-REQUEST_TEMPLATE.md
+  require_template_sections:
+    - Summary
+    - Type of Change
+    - Validation
+    - Checklist
+  minimum_reviewers: 1
+  allow_self_review_checklist: true
+  require_linked_issue: false
+  squash_merge_recommended: true
+
+branching:
+  protected_branches:
+    - main
+  allow_direct_push:
+    main: false
+  allowed_prefixes:
+    - feature/
+    - fix/
+    - docs/
+    - chore/
+    - release/
+  naming_pattern: "<type>/<scope>-<purpose>"
+  guideline: .github/versionning/BRANCHES.md
+
+commits:
+  template: .github/templates/COMMIT-MESSAGE_TEMPLATE.md
+  conventional_commits: true
+  allowed_types:
+    - feat
+    - fix
+    - docs
+    - test
+    - refactor
+    - chore
+    - ci
+    - perf
+  guideline: .github/versionning/COMMITS.md
+
+versioning:
+  style: semantic
+  tag_prefix: v
+  release_branch_optional: true
+  progression_examples:
+    - v0.1.0
+    - v0.2.0
+    - v0.3.0
+    - v1.0.0
+  master_guideline: .github/versionning/VERSIONNING-GUIDELINES.md
+  release_guideline: .github/versionning/RELEASES.md
+
+docs_automation:
+  changelog:
+    file: CHANGE-LOG.md
+    unreleased_header: "## [Unreleased]"
+    script: .github/scripts/Update-Changelog.ps1
+    workflow: .github/workflows/auto-changelog-readme.yml
+  readme_sync:
+    file: README.md
+    marker_start: "<!-- LATEST-CHANGES:START -->"
+    marker_end: "<!-- LATEST-CHANGES:END -->"
+    script: .github/scripts/Update-ReadmeChanges.ps1
+  release_promotion:
+    script: .github/scripts/Promote-Changelog.ps1
+    workflow: .github/workflows/auto-release-versioning.yml
+
+attributions:
+  file: ATTRIBUTIONS.md
+  script: .github/scripts/Update-Attributions.ps1
+  workflow: .github/workflows/auto-attributions.yml
+  auto_scan_paths:
+    - files/resources/**
+    - files/assets/**
+    - "**/*.bib"
+    - "**/*.attribution"
+  marker_start: "<!-- AUTO-ATTRIBUTIONS:START -->"
+  marker_end: "<!-- AUTO-ATTRIBUTIONS:END -->"
+
+security:
+  policy_file: .github/SECURITY.md
+  private_reporting_email: security-contact@example.com
+  secrets_in_repo_allowed: false
+  security_disclosure_private: true
+
+deliverables:
+  required:
+    - README.md
+    - LICENSE
+    - AUTHORS.md
+    - ATTRIBUTIONS.md
+    - CHANGE-LOG.md
+  milestone_release_required: true
+  final_release_tag: v1.0.0
+
+quality:
+  reproducibility_required: true
+  documentation_required: true
+  changelog_required: true
+  attribution_required: true
+  latest_changes_sync_required: true
