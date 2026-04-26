@@ -1,8 +1,0 @@
-C:\Users\charl\University\Session 2\CSharp\TP3\TP3_Partie1\TP3_Partie1\bin\Debug\TP3_Partie1.exe.config
-C:\Users\charl\University\Session 2\CSharp\TP3\TP3_Partie1\TP3_Partie1\bin\Debug\TP3_Partie1.exe
-C:\Users\charl\University\Session 2\CSharp\TP3\TP3_Partie1\TP3_Partie1\bin\Debug\TP3_Partie1.pdb
-C:\Users\charl\University\Session 2\CSharp\TP3\TP3_Partie1\TP3_Partie1\obj\Debug\TP3_Partie1.csproj.AssemblyReference.cache
-C:\Users\charl\University\Session 2\CSharp\TP3\TP3_Partie1\TP3_Partie1\obj\Debug\TP3_Partie1.csproj.CoreCompileInputs.cache
-C:\Users\charl\University\Session 2\CSharp\TP3\TP3_Partie1\TP3_Partie1\obj\Debug\TP3_Partie1.exe
-C:\Users\charl\University\Session 2\CSharp\TP3\TP3_Partie1\TP3_Partie1\obj\Debug\TP3_Partie1.pdb
-C:\Users\charl\University\Session 2\CSharp\TP3\TP3_Partie1\TP3_Partie1\obj\Debug\TP3_Partie1.exe.config
