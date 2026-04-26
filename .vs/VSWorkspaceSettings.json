@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json.schemastore.org/VSWorkspaceSettings",
+
+  // ── Project identity ──────────────────────────────────────────────────────
+  "Projects.DefaultNamespace": "TP3",
+  "Projects.DefaultOutputPath": "bin",
+
+  // ── .NET SDK ──────────────────────────────────────────────────────────────
+  // Targets .NET 8 LTS (latest stable as of 2026)
+  "DOTNET_CLI_TELEMETRY_OPTOUT": "1",
+
+  // ── File exclusions (keeps Solution Explorer clean) ───────────────────────
+  "filesExclude": {
+    "**/bin":               true,
+    "**/obj":               true,
+    "**/.git":              true,
+    "**/.vs":               true,
+    "**/node_modules":      true
+  },
+
+  // ── Source file associations ──────────────────────────────────────────────
+  "json.schemas": [],
+
+  // ── Assignment-specific reminders (read-only metadata) ───────────────────
+  "_assignment": {
+    "course":    "IFT 1179 - Programmation en C#",
+    "session":   "Hiver 2026",
+    "due":       "2026-04-26",
+    "num1": {
+      "project":     "TP3_Num1",
+      "topic":       "System.Array — Nations.txt",
+      "points":      20,
+      "dataFile":    "files/assets/Nations.txt",
+      "outputFiles": ["Europe.txt", "Asie.txt"]
+    },
+    "num2": {
+      "project":     "TP3_Num2",
+      "topic":       "List<T> — coasters.txt",
+      "points":      20,
+      "dataFile":    "files/assets/coasters.txt"
+    },
+    "constraint": "No accented characters in variable names or string literals"
+  }
+}
