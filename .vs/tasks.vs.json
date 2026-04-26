@@ -1,0 +1,67 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+
+    // ── Numero 1 : Nations (System.Array) ─────────────────────────────────────
+    {
+      "taskName": "Num1: Build",
+      "appliesTo": "/",
+      "type": "launch",
+      "command": "dotnet",
+      "args": [ "build", "${workspaceRoot}/TP3_Num1" ],
+      "envVars": {}
+    },
+    {
+      "taskName": "Num1: Run",
+      "appliesTo": "/",
+      "type": "launch",
+      "command": "dotnet",
+      "args": [ "run", "--project", "${workspaceRoot}/TP3_Num1" ],
+      "envVars": {}
+    },
+    {
+      "taskName": "Num1: Clean",
+      "appliesTo": "/",
+      "type": "launch",
+      "command": "dotnet",
+      "args": [ "clean", "${workspaceRoot}/TP3_Num1" ],
+      "envVars": {}
+    },
+
+    // ── Numero 2 : Coasters (List<T>) ─────────────────────────────────────────
+    {
+      "taskName": "Num2: Build",
+      "appliesTo": "/",
+      "type": "launch",
+      "command": "dotnet",
+      "args": [ "build", "${workspaceRoot}/TP3_Num2" ],
+      "envVars": {}
+    },
+    {
+      "taskName": "Num2: Run",
+      "appliesTo": "/",
+      "type": "launch",
+      "command": "dotnet",
+      "args": [ "run", "--project", "${workspaceRoot}/TP3_Num2" ],
+      "envVars": {}
+    },
+    {
+      "taskName": "Num2: Clean",
+      "appliesTo": "/",
+      "type": "launch",
+      "command": "dotnet",
+      "args": [ "clean", "${workspaceRoot}/TP3_Num2" ],
+      "envVars": {}
+    },
+
+    // ── Both ──────────────────────────────────────────────────────────────────
+    {
+      "taskName": "Build All",
+      "appliesTo": "/",
+      "type": "launch",
+      "command": "dotnet",
+      "args": [ "build", "${workspaceRoot}/TP3_Num1", "&&", "dotnet", "build", "${workspaceRoot}/TP3_Num2" ],
+      "envVars": {}
+    }
+  ]
+}

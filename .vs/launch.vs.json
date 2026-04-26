@@ -1,0 +1,23 @@
+{
+  "version": "0.2.1",
+  "configurations": [
+
+    // ── Numero 1 : Nations ────────────────────────────────────────────────────
+    {
+      "type": "default",
+      "name": "Num1: Debug Nations",
+      "project": "TP3_Num1/TP3_Num1.csproj",
+      "projectTarget": "",
+      "args": ""
+    },
+
+    // ── Numero 2 : Coasters ───────────────────────────────────────────────────
+    {
+      "type": "default",
+      "name": "Num2: Debug Coasters",
+      "project": "TP3_Num2/TP3_Num2.csproj",
+      "projectTarget": "",
+      "args": ""
+    }
+  ]
+}
