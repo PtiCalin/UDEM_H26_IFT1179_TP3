@@ -1,0 +1,7 @@
+C:\Users\charl\OneDrive\Ecole\Academia\Classes\IFT1179 - Programmation en C Sharp\Assignements\TP3\UDEM_H26_IFT1179_TP3\files\remise\Partie1\bin\Debug\TP3_Partie1.exe.config
+C:\Users\charl\OneDrive\Ecole\Academia\Classes\IFT1179 - Programmation en C Sharp\Assignements\TP3\UDEM_H26_IFT1179_TP3\files\remise\Partie1\bin\Debug\TP3_Partie1.exe
+C:\Users\charl\OneDrive\Ecole\Academia\Classes\IFT1179 - Programmation en C Sharp\Assignements\TP3\UDEM_H26_IFT1179_TP3\files\remise\Partie1\bin\Debug\TP3_Partie1.pdb
+C:\Users\charl\OneDrive\Ecole\Academia\Classes\IFT1179 - Programmation en C Sharp\Assignements\TP3\UDEM_H26_IFT1179_TP3\files\remise\Partie1\obj\Debug\TP3_Partie1.csproj.AssemblyReference.cache
+C:\Users\charl\OneDrive\Ecole\Academia\Classes\IFT1179 - Programmation en C Sharp\Assignements\TP3\UDEM_H26_IFT1179_TP3\files\remise\Partie1\obj\Debug\TP3_Partie1.csproj.CoreCompileInputs.cache
+C:\Users\charl\OneDrive\Ecole\Academia\Classes\IFT1179 - Programmation en C Sharp\Assignements\TP3\UDEM_H26_IFT1179_TP3\files\remise\Partie1\obj\Debug\TP3_Partie1.exe
+C:\Users\charl\OneDrive\Ecole\Academia\Classes\IFT1179 - Programmation en C Sharp\Assignements\TP3\UDEM_H26_IFT1179_TP3\files\remise\Partie1\obj\Debug\TP3_Partie1.pdb
