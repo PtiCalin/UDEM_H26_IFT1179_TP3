@@ -1,0 +1,45 @@
+Continent = 5, mom = ALBANIE, capitale = TIRANA, superficie = 28748 km2, population = 3510484
+Continent = 5, mom = ALLEMAGNE, capitale = BERLIN, superficie = 357027 km2, population = 82537000
+Continent = 5, mom = ANDORRE, capitale = ANDORRA LA VELLA, superficie = 468 km2, population = 67627
+Continent = 5, mom = AUTRICHE, capitale = VIENNE, superficie = 83858 km2, population = 8150835
+Continent = 5, mom = BELARUS, capitale = MINSK, superficie = 207600 km2, population = 10350194
+Continent = 5, mom = BELGIQUE, capitale = BRUXELLES, superficie = 32545 km2, population = 10309725
+Continent = 5, mom = BOSNIE-HERZEGOVINE, capitale = SARAJEVO, superficie = 51129 km2, population = 3922205
+Continent = 5, mom = BULGARIE, capitale = SOFIA, superficie = 110910 km2, population = 7707495
+Continent = 5, mom = CHYPRE, capitale = NICOSIE, superficie = 9250 km2, population = 771657
+Continent = 5, mom = CROATIE, capitale = ZAGREB, superficie = 56542 km2, population = 4390751
+Continent = 5, mom = DANEMARK, capitale = COPENHAGUE, superficie = 43094 km2, population = 5413392
+Continent = 5, mom = ESPAGNE, capitale = MADRID, superficie = 504782 km2, population = 40037995
+Continent = 5, mom = ESTONIE, capitale = TALINN, superficie = 45226 km2, population = 1401945
+Continent = 5, mom = FINLANDE, capitale = HELSINKI, superficie = 337030 km2, population = 5211311
+Continent = 5, mom = FRANCE, capitale = MARSEILLE, superficie = 543964 km2, population = 61387038
+Continent = 5, mom = GRECE, capitale = ATHENES, superficie = 131940 km2, population = 10623835
+Continent = 5, mom = HONGRIE, capitale = BUDAPEST, superficie = 93030 km2, population = 10106017
+Continent = 5, mom = IRLANDE, capitale = DUBLIN, superficie = 70273 km2, population = 3917336
+Continent = 5, mom = ISLANDE, capitale = REYKJAVIC, superficie = 103125 km2, population = 288201
+Continent = 5, mom = ISRAEL, capitale = JERUSALEM, superficie = 20770 km2, population = 6116533
+Continent = 5, mom = ITALIE, capitale = ROME, superficie = 301230 km2, population = 57715620
+Continent = 5, mom = LETTONIE, capitale = RIGA, superficie = 64589 km2, population = 2385231
+Continent = 5, mom = LIECHTENSTEIN, capitale = VADUZ, superficie = 160 km2, population = 32528
+Continent = 5, mom = LITUANIE, capitale = VILNIUS, superficie = 65200 km2, population = 3610535
+Continent = 5, mom = LUXEMBOURG, capitale = LUXEMBOURG, superficie = 2586 km2, population = 442972
+Continent = 5, mom = MACEDOINE, capitale = SKOPJE, superficie = 25713 km2, population = 2100000
+Continent = 5, mom = MALTE, capitale = LA VALETTE, superficie = 316 km2, population = 394583
+Continent = 5, mom = MOLDAVIE, capitale = CHISINAU, superficie = 33843 km2, population = 4431570
+Continent = 5, mom = MONACO, capitale = MONACO, superficie = 195 km2, population = 31842
+Continent = 5, mom = NORVEGE, capitale = OSLO, superficie = 324220 km2, population = 4525116
+Continent = 5, mom = PAYS-BAS, capitale = AMSTERDAM, superficie = 41526 km2, population = 16135992
+Continent = 5, mom = POLOGNE, capitale = VARSOVIE, superficie = 312685 km2, population = 38633912
+Continent = 5, mom = PORTUGAL, capitale = LISBONNE, superficie = 92391 km2, population = 10066253
+Continent = 5, mom = REPUBLIQUE TCHEQUE, capitale = PRAGUE, superficie = 78866 km2, population = 10264212
+Continent = 5, mom = ROUMANIE, capitale = BUCAREST, superficie = 238390 km2, population = 22272000
+Continent = 5, mom = ROYAUME-UNI, capitale = LONDRES, superficie = 244101 km2, population = 58789194
+Continent = 5, mom = RUSSIE, capitale = MOSCOU, superficie = 17075400 km2, population = 143954573
+Continent = 5, mom = SAINT MARIN, capitale = SAINT MARIN, superficie = 61 km2, population = 27336
+Continent = 5, mom = SERBIE ET MONTENEGRO, capitale = BELGRADE, superficie = 102173 km2, population = 10660000
+Continent = 5, mom = SLOVAQUIE, capitale = BRATISLAVA, superficie = 48845 km2, population = 5414937
+Continent = 5, mom = SLOVENIE, capitale = LJUBLJANA, superficie = 20273 km2, population = 1930132
+Continent = 5, mom = SUEDE, capitale = STOCKHOLM, superficie = 449964 km2, population = 8875053
+Continent = 5, mom = SUISSE, capitale = BERNE, superficie = 41285 km2, population = 7261200
+Continent = 5, mom = TURQUIE, capitale = ANKARA, superficie = 780580 km2, population = 67308928
+Continent = 5, mom = UKRAINE, capitale = KIEV, superficie = 603700 km2, population = 48396470

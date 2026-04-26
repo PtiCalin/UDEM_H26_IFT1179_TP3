@@ -1,0 +1,47 @@
+Continent = 3, mom = AFGHANISTAN, capitale = KABOUL, superficie = 652225 km2, population = 29547078
+Continent = 3, mom = ARABIE SAOUDITE, capitale = RIYAD, superficie = 1960582 km2, population = 23513330
+Continent = 3, mom = ARMENIE, capitale = EREVAN, superficie = 29800 km2, population = 3326448
+Continent = 3, mom = AZERBAIDJAN, capitale = BAKU, superficie = 86100 km2, population = 7830764
+Continent = 3, mom = BAHREIN, capitale = MANAMA, superficie = 707 km2, population = 645361
+Continent = 3, mom = BANGLADESH, capitale = DACCA, superficie = 144000 km2, population = 133376684
+Continent = 3, mom = BHOUTAN, capitale = THIMPHOU, superficie = 47000 km2, population = 2094176
+Continent = 3, mom = BRUNEI, capitale = BANDAR SERI BEGAWAN, superficie = 5770 km2, population = 343653
+Continent = 3, mom = CAMBODGE, capitale = PHNOM PENH, superficie = 181040 km2, population = 13124764
+Continent = 3, mom = CHINE, capitale = PEKIN, superficie = 9596960 km2, population = 1273111290
+Continent = 3, mom = COMORES, capitale = MORONI, superficie = 2170 km2, population = 596202
+Continent = 3, mom = COREE DU NORD, capitale = PYONGYANG, superficie = 120540 km2, population = 21968228
+Continent = 3, mom = COREE DU SUD, capitale = SEOUL, superficie = 99274 km2, population = 48324000
+Continent = 3, mom = EMIRATS ARABES UNIS, capitale = ABOU DHABI, superficie = 82880 km2, population = 2407460
+Continent = 3, mom = GEORGIE, capitale = TBILISSI, superficie = 69700 km2, population = 4934413
+Continent = 3, mom = HONG-KONG, capitale = VICTORIA, superficie = 1067 km2, population = 6000000
+Continent = 3, mom = INDE, capitale = NEW DELHI, superficie = 3287590 km2, population = 1029991145
+Continent = 3, mom = INDONESIE, capitale = DJAKARTA, superficie = 1919440 km2, population = 228437870
+Continent = 3, mom = IRAK, capitale = BAGDAD, superficie = 437072 km2, population = 23331985
+Continent = 3, mom = IRAN, capitale = TEHERAN, superficie = 1648000 km2, population = 76000000
+Continent = 3, mom = JAPON, capitale = TOKYO, superficie = 377835 km2, population = 12761000
+Continent = 3, mom = JORDANIE, capitale = AMMAN, superficie = 92300 km2, population = 5153378
+Continent = 3, mom = KAZAKHSTAN, capitale = ASTANA, superficie = 2717300 km2, population = 16741519
+Continent = 3, mom = KIRGHIZISTAN, capitale = BICHLEK, superficie = 198500 km2, population = 4753003
+Continent = 3, mom = KOWEIT, capitale = KOWEIT, superficie = 17820 km2, population = 2041961
+Continent = 3, mom = LAOS, capitale = VIENTIANE, superficie = 236800 km2, population = 5635967
+Continent = 3, mom = LIBAN, capitale = BEYROUTH, superficie = 10452 km2, population = 3727703
+Continent = 3, mom = MALAISIE, capitale = KUALA LAMPUR, superficie = 329750 km2, population = 21793293
+Continent = 3, mom = MALDIVES, capitale = MALE, superficie = 298 km2, population = 329684
+Continent = 3, mom = MONGOLIE, capitale = OULAN-BATOR, superficie = 1565000 km2, population = 2654999
+Continent = 3, mom = MYANMAR, capitale = RANGOUN, superficie = 678500 km2, population = 42510537
+Continent = 3, mom = NEPAL, capitale = KATMANDOU, superficie = 140800 km2, population = 25284463
+Continent = 3, mom = OMAN, capitale = MASCATE, superficie = 212460 km2, population = 2622198
+Continent = 3, mom = OUZBEKISTAN, capitale = TACHKENT, superficie = 447400 km2, population = 25563441
+Continent = 3, mom = PAKISTAN, capitale = ISLAMABAD, superficie = 803940 km2, population = 147663429
+Continent = 3, mom = PHILIPPINES, capitale = MANILLE, superficie = 300000 km2, population = 86241697
+Continent = 3, mom = QATAR, capitale = DOHA, superficie = 11437 km2, population = 769152
+Continent = 3, mom = SINGAPOUR, capitale = SINGAPORE, superficie = 692 km2, population = 4608595
+Continent = 3, mom = SRI LANKA, capitale = COLOMBO, superficie = 65610 km2, population = 19607519
+Continent = 3, mom = SYRIE, capitale = DAMAS, superficie = 185180 km2, population = 17585540
+Continent = 3, mom = TADJIKISTAN, capitale = DOUCHANBE, superficie = 143000 km2, population = 6719567
+Continent = 3, mom = TAIWAN, capitale = TAIPEI, superficie = 36006 km2, population = 22000000
+Continent = 3, mom = THAILANDE, capitale = BANGKOK, superficie = 514000 km2, population = 62354402
+Continent = 3, mom = TIMOR LESTE, capitale = DILI, superficie = 15007 km2, population = 952618
+Continent = 3, mom = TURKMENISTAN, capitale = ACHGABAT, superficie = 488100 km2, population = 4603244
+Continent = 3, mom = VIETNAM, capitale = HANOI, superficie = 329560 km2, population = 81098416
+Continent = 3, mom = YEMEN, capitale = SANAA, superficie = 527970 km2, population = 19349881
